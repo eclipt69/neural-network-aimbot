@@ -13,3 +13,6 @@ neural network aimbot using yolo and cv2
 - Use Q to quit
 - Works on any game that allows 3rd party inputs
 - Have fun ;)
+
+# Video of the Demo
+- comming soon @ https://www.youtube.com/channel/UCaGJJgAsltyfqqB8ZNAmoYg
