@@ -17,7 +17,7 @@ from colorama import Fore
 
 ##########################################################################
 # Neural Network Aimbot Using YOLO and Cv2                               #
-# Made by Eclipt#8243 as a Majoris side project!                         #
+# Made by Eclipt#8243 as a side project!                                 #
 # Make sure to subscribe me @ https://www.youtube.com/@eclipt_2728       #
 # And join my discord :-)                                                #
 ##########################################################################
